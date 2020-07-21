@@ -2,6 +2,10 @@
 
 PLCT实验室收集的方舟编译器的相关分析文章和新闻
 
+## 方舟编译器最新动态
+
+1. [方舟引擎（MapleEngine）介绍](https://zhuanlan.zhihu.com/p/161995928)
+
 ## 方舟编译器所支持的APP分析
 
 1. [方舟编译器处理第一款APP发布尝鲜以及简要分析](https://blog.csdn.net/feibabeibei_beibei/article/details/107086069) --赵贝贝
