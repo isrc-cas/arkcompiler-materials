@@ -18,6 +18,10 @@ PLCT实验室收集的方舟编译器的相关分析文章和新闻
 
 方舟编译器由PLCT实验室史宁宁发布，每周日晚在本Repo、知乎、Bilibili和邮件列表同时发布。
 
+[OpenArkCompiler Weekly - #28 September 13th 2020](https://github.com/isrc-cas/arkcompiler-materials/blob/master/OpenArkCompiler%20Weekly/OpenArkCompiler%20Weekly%20-%20%2328%20September%2013th%202020.md)
+
+[OpenArkCompiler Weekly - #27 September 6th 2020](https://github.com/isrc-cas/arkcompiler-materials/blob/master/OpenArkCompiler%20Weekly/OpenArkCompiler%20Weekly%20-%20%2327%20September%206th%202020.md)
+
 [OpenArkCompiler Weekly - #26 August 30th 2020](https://github.com/isrc-cas/arkcompiler-materials/blob/master/OpenArkCompiler%20Weekly/OpenArkCompiler%20Weekly%20-%20%2326%20August%2030th%202020.md)
 
 [OpenArkCompiler Weekly - #25 August 23rd 2020](https://github.com/isrc-cas/arkcompiler-materials/blob/master/OpenArkCompiler%20Weekly/OpenArkCompiler%20Weekly%20-%20%2325%20August%2023rd%202020.md)
