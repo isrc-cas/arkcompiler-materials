@@ -18,6 +18,18 @@ PLCT实验室收集的方舟编译器的相关分析文章和新闻
 
 方舟编译器由PLCT实验室史宁宁发布，每周日晚在本Repo、知乎、Bilibili和邮件列表同时发布。
 
+[OpenArkCompiler Weekly - #34 October 25th 2020](https://github.com/isrc-cas/arkcompiler-materials/blob/master/OpenArkCompiler%20Weekly/OpenArkCompiler%20Weekly%20-%20%2334%20October%2025th%202020.md)
+
+[OpenArkCompiler Weekly - #33 October 18th 2020](https://github.com/isrc-cas/arkcompiler-materials/blob/master/OpenArkCompiler%20Weekly/OpenArkCompiler%20Weekly%20-%20%2333%20October%2018th%202020.md)
+
+[OpenArkCompiler Weekly - #32 October 11th 2020](https://github.com/isrc-cas/arkcompiler-materials/blob/master/OpenArkCompiler%20Weekly/OpenArkCompiler%20Weekly%20-%20%2332%20October%2011th%202020.md)
+
+[OpenArkCompiler Weekly - #31 October 4th 2020](https://github.com/isrc-cas/arkcompiler-materials/blob/master/OpenArkCompiler%20Weekly/OpenArkCompiler%20Weekly%20-%20%2331%20October%204th%202020.md)
+
+[OpenArkCompiler Weekly - #30 September 27th 2020](https://github.com/isrc-cas/arkcompiler-materials/blob/master/OpenArkCompiler%20Weekly/OpenArkCompiler%20Weekly%20-%20%2330%20September%2027th%202020.md)
+
+[OpenArkCompiler Weekly - #29 September 20th 2020](https://github.com/isrc-cas/arkcompiler-materials/blob/master/OpenArkCompiler%20Weekly/OpenArkCompiler%20Weekly%20-%20%2329%20September%2020th%202020.md)
+
 [OpenArkCompiler Weekly - #28 September 13th 2020](https://github.com/isrc-cas/arkcompiler-materials/blob/master/OpenArkCompiler%20Weekly/OpenArkCompiler%20Weekly%20-%20%2328%20September%2013th%202020.md)
 
 [OpenArkCompiler Weekly - #27 September 6th 2020](https://github.com/isrc-cas/arkcompiler-materials/blob/master/OpenArkCompiler%20Weekly/OpenArkCompiler%20Weekly%20-%20%2327%20September%206th%202020.md)
