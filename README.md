@@ -20,6 +20,8 @@ PLCT实验室收集的方舟编译器的相关分析文章和新闻
 
 3. [道路千万条，安全第一条——方舟编译器环境支持的中国建设银行APP分析](https://zhuanlan.zhihu.com/p/157219747)  --知乎@年轻人啊不要熬夜
 
+4. [方舟编译器的前世今生](https://mp.weixin.qq.com/s/l3AmfeyNIUVK_U8kD_VeZw)
+
 ## OpenArkCompiler Weekly
 
 方舟编译器由PLCT实验室史宁宁发布，每周日晚在本Repo、知乎、Bilibili和邮件列表同时发布。
