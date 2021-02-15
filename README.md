@@ -24,6 +24,38 @@ PLCT实验室收集的方舟编译器的相关分析文章和新闻
 
 方舟编译器由PLCT实验室史宁宁发布，每周日晚在本Repo、知乎、Bilibili和邮件列表同时发布。
 
+[OpenArkCompiler Weekly - #50 Feburary 14th 2021](https://github.com/isrc-cas/arkcompiler-materials/blob/master/OpenArkCompiler%20Weekly/OpenArkCompiler%20Weekly%20-%20%2350%20Feburary%2014th%202021.md)
+
+[OpenArkCompiler Weekly - #49 Feburary 7th 2021](https://github.com/isrc-cas/arkcompiler-materials/blob/master/OpenArkCompiler%20Weekly/OpenArkCompiler%20Weekly%20-%20%2349%20%20Feburary%207th%202021.md)
+
+[OpenArkCompiler Weekly - #48 January 31st 2021](https://github.com/isrc-cas/arkcompiler-materials/blob/master/OpenArkCompiler%20Weekly/OpenArkCompiler%20Weekly%20-%20%2348%20%20January%2031st%202021.md)
+
+[OpenArkCompiler Weekly - #47 January 24th 2021](https://github.com/isrc-cas/arkcompiler-materials/blob/master/OpenArkCompiler%20Weekly/OpenArkCompiler%20Weekly%20-%20%2347%20%20January%2024th.md)
+
+[OpenArkCompiler Weekly - #46 January 17th 2021](https://github.com/isrc-cas/arkcompiler-materials/blob/master/OpenArkCompiler%20Weekly/OpenArkCompiler%20Weekly%20-%20%2346%20%20January%2017th%202021.md)
+
+[OpenArkCompiler Weekly - #45 January 10th 2021](https://github.com/isrc-cas/arkcompiler-materials/blob/master/OpenArkCompiler%20Weekly/OpenArkCompiler%20Weekly%20-%20%2345%20%20January%2010th%202021.md)
+
+[OpenArkCompiler Weekly - #44 January 3rd 2021](https://github.com/isrc-cas/arkcompiler-materials/blob/master/OpenArkCompiler%20Weekly/OpenArkCompiler%20Weekly%20-%20%2344%20%20January%203rd%202021.md)
+
+[OpenArkCompiler Weekly - #43 December 27th 2020](https://github.com/isrc-cas/arkcompiler-materials/blob/master/OpenArkCompiler%20Weekly/OpenArkCompiler%20Weekly%20-%20%2343%20December%2027th%202020.md)
+
+[OpenArkCompiler Weekly - #42 December 20th 2020](https://github.com/isrc-cas/arkcompiler-materials/blob/master/OpenArkCompiler%20Weekly/OpenArkCompiler%20Weekly%20-%20%2342%20December%2020th%202020.md)
+
+[OpenArkCompiler Weekly - #41 December 13th 2020](https://github.com/isrc-cas/arkcompiler-materials/blob/master/OpenArkCompiler%20Weekly/OpenArkCompiler%20Weekly%20-%20%2341%20December%2013th%202020.md)
+
+[OpenArkCompiler Weekly - #40 December 6th 2020](https://github.com/isrc-cas/arkcompiler-materials/blob/master/OpenArkCompiler%20Weekly/OpenArkCompiler%20Weekly%20-%20%2340%20December%206th%202020.md)
+
+[OpenArkCompiler Weekly - #39 November 29th 2020](https://github.com/isrc-cas/arkcompiler-materials/blob/master/OpenArkCompiler%20Weekly/OpenArkCompiler%20Weekly%20-%20%2339%20November%2029th%202020.md)
+
+[OpenArkCompiler Weekly - #38 November 22nd 2020](https://github.com/isrc-cas/arkcompiler-materials/blob/master/OpenArkCompiler%20Weekly/OpenArkCompiler%20Weekly%20-%20%2338%20November%2022nd%202020.md)
+
+[OpenArkCompiler Weekly - #37 November 15th 2020](https://github.com/isrc-cas/arkcompiler-materials/blob/master/OpenArkCompiler%20Weekly/OpenArkCompiler%20Weekly%20-%20%2337%20November%2015th%202020.md)
+
+[OpenArkCompiler Weekly - #36 November 8th 2020](https://github.com/isrc-cas/arkcompiler-materials/blob/master/OpenArkCompiler%20Weekly/OpenArkCompiler%20Weekly%20-%20%2336%20November%208th%202020.md)
+
+[OpenArkCompiler Weekly - #35 November 1st 2020](https://github.com/isrc-cas/arkcompiler-materials/blob/master/OpenArkCompiler%20Weekly/OpenArkCompiler%20Weekly%20-%20%2335%20November%201st%202020.md)
+
 [OpenArkCompiler Weekly - #34 October 25th 2020](https://github.com/isrc-cas/arkcompiler-materials/blob/master/OpenArkCompiler%20Weekly/OpenArkCompiler%20Weekly%20-%20%2334%20October%2025th%202020.md)
 
 [OpenArkCompiler Weekly - #33 October 18th 2020](https://github.com/isrc-cas/arkcompiler-materials/blob/master/OpenArkCompiler%20Weekly/OpenArkCompiler%20Weekly%20-%20%2333%20October%2018th%202020.md)
