@@ -8,6 +8,10 @@ PLCT实验室收集的方舟编译器的相关分析文章和新闻
 
 2. [方舟支持C语言编译新功能开源啦！](https://mp.weixin.qq.com/s/wO0Z_cBRouS9tFaexpENog)
 
+3. [方舟社区新发布对RISC-V后端的支持](https://mp.weixin.qq.com/s/bg6lyIYh1CguMpULi_ZALA)
+
+4. [方舟编译器支持Ubuntu20.04 和 Clang 10](https://gitee.com/openarkcompiler/OpenArkCompiler/commit/2c9f75ecfbf4d69be526d4f23fa3ae8c1fc0aa19)
+
 ## 方舟编译器所支持的APP分析
 
 1. [方舟编译器处理第一款APP发布尝鲜以及简要分析](https://blog.csdn.net/feibabeibei_beibei/article/details/107086069) --赵贝贝
